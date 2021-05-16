@@ -5,3 +5,5 @@ New corpora can be produced dynamically using recorded audio via the microphone.
 The generator uses context-free grammar to produce free-form poems in various lengths as well as haikus.
 
 Build using Python 3 in a Raspberry Pi 4 and an Arduino Uno Rev 3
+
+Video presentation can be found on Youtube at https://youtu.be/MLsjDvG-Hv8
